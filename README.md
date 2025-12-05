@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://mucahit.tr" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mücahit+Yılmaz;Senior+Full-Stack+Developer;Frontend+Architect+%26+Lead;Design-Driven+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mucahit+Yilmaz;Senior+Full-Stack+Developer;Frontend+Architect+%26+Lead;Design-Driven+Engineer" alt="Typing SVG" />
   </a>
 </div>
 
